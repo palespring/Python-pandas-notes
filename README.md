@@ -31,4 +31,5 @@ something notes about pandas
     新插入列，在序号为0的列的位置
 ## 6、合并
 ### ① pd.concat()
+    df_qty_total = pd.concat([df_qty_total, df_qty])
     
