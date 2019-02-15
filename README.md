@@ -32,4 +32,8 @@ something notes about pandas
 ## 6、合并
 ### ① pd.concat()
     df_qty_total = pd.concat([df_qty_total, df_qty])
-    
+   合并以前
+![df_qty](https://github.com/palespring/Python-pandas-notes/blob/master/df_qty.png)
+![df_qty](https://github.com/palespring/Python-pandas-notes/blob/master/df_qty_total.png)
+   合并以后
+![df_qty](https://github.com/palespring/Python-pandas-notes/blob/master/df_qty_total2.png)
