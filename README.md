@@ -37,3 +37,5 @@ something notes about pandas
 ![df_qty](https://github.com/palespring/Python-pandas-notes/blob/master/df_qty_total.png)
    合并以后
 ![df_qty](https://github.com/palespring/Python-pandas-notes/blob/master/df_qty_total2.png)
+## 7、按条件筛选
+  https://blog.csdn.net/butterfly1107/article/details/82756902
